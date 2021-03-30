@@ -6,10 +6,14 @@ Exemples:
 transform(1)
 0
 
+
+
 transform(2)
 0
 
 10
+
+
 
 transform(9)
 0
@@ -31,6 +35,8 @@ transform(9)
 876543210
 
 9876543210
+
+
 
 transform(16)
 0
