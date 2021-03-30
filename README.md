@@ -4,11 +4,13 @@ Exercice effectuer à l'occasion d'un test d'embauche
 Exemples:
 
 transform(1)
+
 0
 
 
 
 transform(2)
+
 0
 
 10
@@ -16,6 +18,7 @@ transform(2)
 
 
 transform(9)
+
 0
 
 10
@@ -39,6 +42,7 @@ transform(9)
 
 
 transform(16)
+
 0
 
 10
