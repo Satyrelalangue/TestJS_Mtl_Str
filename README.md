@@ -1,4 +1,4 @@
-# TestJS001
+# TestJS_Mtl_Str
 Exercice effectuer à l'occasion d'un test d'embauche
 
 Exemples:
